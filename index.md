@@ -25,3 +25,5 @@ In this demonstration, we build a real-time chat application with [Firebase Clou
 ### [React Native Expo Publish](https://expo.dev/@jglchen/firestore-realtime-chat)
 ### [React Native GitHub](https://github.com/jglchen/firestore-realtime-chat-mobile)
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
