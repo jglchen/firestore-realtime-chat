@@ -82,7 +82,7 @@ export default function Home() {
                <li>Rather than pushing data, we can fetch real-time data on-demand. For example, the Vercel dashboard delivers realtime updates using <a href='https://swr.vercel.app/' target='_blank' rel='noreferrer'>SWR</a>.</li>
             </ol>
             In this demonstration, we build a real-time chat application with <a href='https://firebase.google.com/products/firestore' target='_blank' rel='noreferrer'>Firebase Cloud FireStore</a>.
-          </div>
+            </div>
          </div>
          }
          </>
