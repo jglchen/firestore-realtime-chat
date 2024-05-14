@@ -62,9 +62,11 @@ export default function Home() {
          {!user &&
          <div className={styles.homeContainer}>
             <h1 style={{textAlign: 'center'}}>Chat Applications with Cloud Firestore</h1>
+            {/* 
             <div className={styles.mobileRemark}>
                React Native Expo Publish: <a href="https://exp.host/@jglchen/firestore-realtime-chat" target="_blank" rel="noreferrer">https://exp.host/@jglchen/firestore-realtime-chat</a>
             </div>
+            */}
             <input
                type="text"
                placeholder="Room"
